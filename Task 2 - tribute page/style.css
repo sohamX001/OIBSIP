@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Ysabeau+Infant&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Ysabeau Infant", sans-serif;
+}
+
+body {
+  background: linear-gradient(45deg, #03004dcd, #005456);
+}
+
+.hed {
+  background-color: #ebfff7;
+  padding: 45px;
+  text-align: center;
+  height: 200px;
+}
+
+#name {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+#date {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.intro {
+  background-color: #bfeff045;
+  height: 300px;
+  margin: 70px;
+  border-radius: 20px;
+  color: #87edbdb8;
+}
+
+#imghed {
+  display: flex;
+  float: right;
+  height: auto;
+  width: 250px;
+  margin: 25px;
+}
+
+#qt {
+  font-size: 40px;
+  padding: 75px;
+}
+
+.container {
+  margin: 180px;
+  margin-top: 150px;
+  font-size: 20px;
+  color: #d1ecccc8;
+  text-align: justify;
+  margin-bottom: 100px;
+}
+
+#pimg {
+  height: auto;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: -3px -3px 15px rgba(178, 227, 232, 0.2);
+  border-radius: 20px;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
